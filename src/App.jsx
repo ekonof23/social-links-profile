@@ -2,7 +2,7 @@ export default function App() {
   return (
     <main className="profile-card">
       <img
-        src="/avatar-jessica.jpeg"
+        src="avatar-jessica.jpeg"
         alt="Profile avatar"
         className="profile-avatar"
       />
